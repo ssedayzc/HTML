@@ -1,2 +1,2 @@
-#  Web Sitesi
-Hakkımızda,iletişim ve ana sayfadan oluşan web sitesini linkler ve semantic etiketlerr kullanarak oluşturduk.
+#  Tarif
+Çikolata küpleri tarifinin sitemizde gösterimi, afiyet olsun :)
