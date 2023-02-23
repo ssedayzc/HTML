@@ -1,3 +1,2 @@
-# İlk Web Sitemiz
-Linkler ve görselleri de kullanarak kendi küçük web sitemizi oluşturup,
-diğer sitelere erişim için görsellere linkler bıraktık.
+#  Web Sitesi
+Hakkımızda,iletişim ve ana sayfadan oluşan web sitesini linkler ve semantic etiketlerr kullanarak oluşturduk.
